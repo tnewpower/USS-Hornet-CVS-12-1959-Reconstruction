@@ -1,0 +1,1 @@
+This directory contains SVG, PNG and PDF files with decals representing the USS Hornet and its air wing in 1959.  There are also bonus decals for the ship and squadron logos, and 1:48 and 1:72 sets for modeling specific aircraft.
