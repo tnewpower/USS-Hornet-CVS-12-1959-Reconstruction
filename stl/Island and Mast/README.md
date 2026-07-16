@@ -1,0 +1,1 @@
+This folder contains STL files for the mast and the island to convert the Trumpeter USS Intrepid to the USS Hornet.  Note that my build starts with the Model Monkey USS Yorktown 1955-1960 island.  The kit island can also most likely be used.
