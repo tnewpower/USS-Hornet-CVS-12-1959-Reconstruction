@@ -1,0 +1,1 @@
+This directory contains the STL files used to print the various components needed to convert the Trumpeter Intrepid kit into the Hornet from 1959.  There are additional pieces that can be used for later versions of the Hornet, but this is not necesarily a complete set compared to the 1959 configuration.
