@@ -1,0 +1,1 @@
+This directory contains the STL files used to produce a complete hangar deck interior for the USS Hornet.  These parts are designed based on my personal observations, photos and work as docent on the USS Hornet museum. 
