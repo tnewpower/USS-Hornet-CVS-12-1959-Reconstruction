@@ -1,1 +1,1 @@
-STL Files related to the flight deck for the 1959 USS Hornet. This configuration should work for any of the post-1958 overhaul versions, with the main differences being the markings.
+STL Files related to the flight deck for the 1959 USS Hornet. This configuration should work for any of the post-1958 overhaul versions, with the main differences being the markings. The single piece file will be difficult to print due to its size; therefore, there is a 3 section version included here which is much more printable.  I used Craftcloud and 3DSPro in Hong Kong to print mine.
