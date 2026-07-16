@@ -20,11 +20,13 @@ Produce historically accurate CAD models and STL files.
 Publish custom decals for the 1959 air wing.
 Record every major configuration decision.
 Donate the completed model and research archive to the USS Hornet Museum.
-Current Status
-Area	Status
-Historical Research	🟢 Active
+Current Status:
+
+Area	                  Status
+
+Historical Research	    🟢 Active
 Configuration Register	🟢 Active
-CAD	🟢 Active
-STL Library	🟡 In Progress
-Documentation	🟡 In Progress
-Model Construction	🟡 In Progress
+CAD	                    🟢 Active
+STL Library	            🟡 In Progress
+Documentation	          🟡 In Progress
+Model Construction	    🟡 In Progress
